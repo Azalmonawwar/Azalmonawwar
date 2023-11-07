@@ -10,13 +10,14 @@
 </p>
 
 🚀 I have a diverse skill set that includes:
-
+</br>
 💻 Front-End: HTML, CSS, JavaScript, React, Next.js
-🔙 Back-End: Node.js, Express, Next.js
-🗄️ Databases:  MongoDB
-🔐 Authentication & Security: JWT, OAuth
-📊 API Development: REST,
-📱 Mobile App Development: React Native
+</br>
+🔙 Back-End: Node.js, Express, Next.js</br>
+🗄️ Databases:  MongoDB</br>
+🔐 Authentication & Security: JWT, OAuth</br>
+📊 API Development: REST,</br>
+📱 Mobile App Development: React Native</br>
 
 
 <h3 align="left">Languages and Tools:</h3>
