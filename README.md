@@ -14,7 +14,7 @@
 💻 Front-End: HTML, CSS, JavaScript, React, Next.js
 </br>
 🔙 Back-End: Node.js, Express, Next.js</br>
-🗄️ Databases:  MongoDB</br>
+🗄️ Databases:  MongoDB, Postgresql</br>
 🔐 Authentication & Security: JWT, OAuth</br>
 📊 API Development: REST,</br>
 📱 Mobile App Development: React Native</br>
